@@ -10,4 +10,4 @@
 
 5. Na execução deste código o que aconteceu foi que o portugol escreveu 123, logo enseguida, fez a soma de 100+200, e depois, escreveu 100+200. A diferença entre as linhas 6 e 7 é que a a linha 6 o código que foi escrito foi para realizar a soma de 100+200. Já na linha 7 o código escrito é só para que o portugol escreva na tela de comando 100+200, não foi feito a soma pois no código está entre "" que literalmente só escreve.
 
-6. O que aconteceu aqui foi que 
+6. O que aconteceu aqui foi que ao definir a variavél "idade" como 21, a linha de comando  foi programada, para que quando for inserido uma idade maior que 18 apareça que esse usuário é maior de idade na tela de comando.
